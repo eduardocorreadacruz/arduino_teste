@@ -1,0 +1,1 @@
+verificando se o vscode abre um arquivo texto
