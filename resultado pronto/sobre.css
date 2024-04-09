@@ -1,0 +1,45 @@
+body {
+	background-color: antiquewhite;
+	font-size: small;
+	text-align: center
+}
+
+nav a {
+	text-decoration: none
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    cursor: pointer;
+    background-color: green;
+    opacity: 0.3;
+    font-size: 1.2rem;
+    transition: 0.3s;
+    color:white;
+}
+
+a:visited{
+    color: white;
+}
+
+p {
+	color: black;
+	font-size: medium;
+	text-align: center
+}
+
+img {
+	background-color: lightblue;
+	padding: 5px;
+	border: black 4px solid;
+	border-radius: 16px
+}
+
+a:visited{
+    color: rgb(0, 191, 255);
+}
+
