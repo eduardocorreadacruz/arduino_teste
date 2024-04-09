@@ -29,11 +29,17 @@ a:visited{
 p{
     color: black;
     font-size: medium;
-    text-align: center;
+    text-align: left;
 }
 
 img{
     background-color: lightblue;
     padding: 5px;
     border:black 4px solid; border-radius: 16px;
+}
+
+li{
+    color: black;
+    font-size: medium;
+    text-align: left;
 }
